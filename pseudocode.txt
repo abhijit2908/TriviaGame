@@ -1,0 +1,19 @@
+1)Create on click event for start game to start the game.
+2)Create timer for to answer the quiz
+3)create objects for qustions and answers
+4)confirm ability to select only one answer for each question.
+5)at the end of timer or when user clicks submit button, record all answers selected by user
+6)compare the user selection with answers.
+7)display number of right answers wrong answers and unanswered.
+
+
+1)Create on click event for start game to start the game.
+2)create a timer for each question
+3)on answer selection display if answer was correct show right/ wrong.
+4)on answer selection kickoff timer to start the next question.
+5)If user not able to answer the question at the end of timer display correct anser.
+6)kickoff timer to start next question when correct answer displayed.
+7)At the end of all questions display number of right answers wrong answers and unanswered.
+8)display start over button and start the quiz without refreshing the page after all questions answered.
+
+
