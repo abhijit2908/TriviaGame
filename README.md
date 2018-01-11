@@ -1,5 +1,11 @@
 # TriviaGame
 
+Trivia Game is a Quiz built using HTML/CSS/Javascript. 
+
+The Application is hosted here:https://abhijit2908.github.io/TriviaGame/
+
+
+
 You'll create a trivia form with multiple choice or true/false options (your choice).
 
 ![GitHub Logo](landing_page.PNG)
